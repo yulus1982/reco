@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>i455.jpg</filename>
+	<path>/home/younes/reco/data/images/train/i455.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t72</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>3</ymin>
+			<xmax>204</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

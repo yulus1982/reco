@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im444.jpeg</filename>
+	<path>/home/younes/reco/data/images/train/im444.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>859</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t72</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>64</ymin>
+			<xmax>778</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

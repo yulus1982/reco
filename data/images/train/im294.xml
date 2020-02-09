@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im294.jpg</filename>
+	<path>/home/younes/reco/data/images/train/im294.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t72</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>56</ymin>
+			<xmax>175</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
